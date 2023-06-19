@@ -1,6 +1,9 @@
 # M1 Traffic Analysis Using R
 ## Introduction
 GNT Consultant is a consulting company which is a group of Data Scientist use data to help client making data-driven decision to improve their business. One of their biggest clients who based in London have delivery lorries need to go through the length of M1, they want to have some advice about what the best time is to start from J1 and best time to go back from J48. Below is the report to advice client “Best time to start and best time to go back, daily” when deliver lorries going through M1.
+<img width="720" alt="image" src="https://github.com/ntg2208/M1-Traffic-Analysis-R/assets/25520448/b5530677-7ea3-46ef-9277-f2954b4cf7f0">
+
+M1 traffic on [trafficengland.com](https://www.trafficengland.com/traffic-report)
 ## Analysis
 ### M1 motorway
 The M1 motorway connects London to Leeds, where it joins the A1(M) near Aberford, to connect to Newcastle. It was the first inter-urban motorway to be completed in the UK, the first motorway in the country was the Preston By-pass, which later became part of the M6.
